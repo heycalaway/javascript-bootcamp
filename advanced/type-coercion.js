@@ -1,0 +1,5 @@
+// Type Coercion - string, number, boolean
+
+console.log( '5' + 5 );
+console.log( '5' - 5 );
+console.log( '5' == 5 );
